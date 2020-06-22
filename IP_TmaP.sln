@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP_TmaP", "IP_TmaP.csproj", "{671E966D-874B-4B51-B696-EFF2EAEF2166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671E966D-874B-4B51-B696-EFF2EAEF2166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671E966D-874B-4B51-B696-EFF2EAEF2166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671E966D-874B-4B51-B696-EFF2EAEF2166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671E966D-874B-4B51-B696-EFF2EAEF2166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B1C55F-6C6A-4AED-8F3E-CAF70B2FD8F0}
+	EndGlobalSection
+EndGlobal
