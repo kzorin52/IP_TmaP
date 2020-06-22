@@ -80,7 +80,6 @@ namespace IP_TmaP
             string longitudetrue = match.Groups[3].Value.Replace('.', ',');
             latitudefalse = double.Parse(latitudetrue);
             longitudefalse = double.Parse(longitudetrue);
-            TextLabel.Text = latitudetrue + " " + longitudetrue;
 
 
 
